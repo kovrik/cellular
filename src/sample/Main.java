@@ -16,7 +16,7 @@ public class Main extends Application {
     private static final int WIDTH  = 800;
 
     private static final Paint BACKGROUND = Color.BLACK;
-    private static final Paint FOREGROUND = Color.LAWNGREEN;
+    private static final Paint FOREGROUND = Color.CYAN;
     private static final Paint TEXT_COLOR = Color.WHITE;
 
     @Override
